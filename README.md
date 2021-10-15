@@ -1,4 +1,3 @@
 # perceptron
 
-This code is an example of a perceptron: a single "neuron" of a neural network.
-It classifies if a point is placed over or under the line which starts at top left corner and end at bottom right corner.
+This code predicts the optimal color for text depending on the background color using a neural network.
